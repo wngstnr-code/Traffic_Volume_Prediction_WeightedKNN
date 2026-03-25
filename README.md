@@ -96,6 +96,3 @@ Baris ... dst ...
 - [Inverse Distance Weighting](https://en.wikipedia.org/wiki/Inverse_distance_weighting)
 
 ---
-
-Silakan modifikasi bagian deskripsi, batasan, atau langkah analisis agar sesuai jika ada hal khusus yang ingin kamu tambahkan!  
-Jika kamu butuh README dalam bahasa Inggris atau penyesuaian lain, silakan kabari kembali.
